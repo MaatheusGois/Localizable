@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  localizeG
+
+  Created by Matheus Silva on 13/03/20.
+  Copyright © 2020 Matheus Gois. All rights reserved.
+*/
+
+"btn_choose_language" = "Choose Language";
